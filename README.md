@@ -1,1 +1,13 @@
-# qa_python
+# Sprint_4
+Список тестов (в tests.py):
+1. test_add_new_book_add_two_books
+1. test_add_new_book_with_empty_name
+1. test_set_book_genre_for_existing_book_and_legal_genre
+1. test_get_book_genre_from_empty_collector
+1. test_get_books_with_specific_genre_all_cases
+1. test_get_books_genre_for_empty_collector
+1. test_get_books_for_children_returns_many_books
+1. test_add_book_in_favorites_single_book_single_book
+1. test_delete_book_from_favorites_single_book_empty_list
+1. test_get_list_of_favorites_books_for_empty_collector
+
